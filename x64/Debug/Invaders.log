@@ -1,0 +1,12 @@
+﻿  Invaders.cpp
+D:\Desktop\Invaders\Invaders\Invaders\Invaders.cpp(29,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Desktop\Invaders\Invaders\Invaders\Invaders.cpp(29,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Invaders.vcxproj -> D:\Desktop\Invaders\Invaders\x64\Debug\Invaders.exe
